@@ -51,4 +51,11 @@ dependencies {
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.2.1")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.6.1")
+
+
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
+    implementation("com.airbnb.android:lottie:5.2.0")
+    implementation("io.grpc:grpc-okhttp:1.57.2")
+    implementation("com.google.cloud:google-cloud-dialogflow:2.1.0")
+
 }
