@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936548565287",
+    "project_id": "nitsgms",
+    "storage_bucket": "nitsgms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936548565287:android:f0991457c68a181c4ee902",
+        "android_client_info": {
+          "package_name": "com.deepsaikia.nitsgms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIRR2OH5kaQI_xmSgKIM24Pk-fEn8JEPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
