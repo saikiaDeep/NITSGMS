@@ -7,10 +7,10 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Toast
-import com.example.grievify.ChatBot
-import com.example.grievify.CreateComplaint
-import com.example.grievify.R
-import com.example.grievify.databinding.FragmentHomeBinding
+import com.deepsaikia.nitsgms.ChatBot
+import com.deepsaikia.nitsgms.CreateComplaint
+import com.deepsaikia.nitsgms.R
+import com.deepsaikia.nitsgms.databinding.FragmentHomeBinding
 import com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
 
 class HomeFragment : Fragment() {

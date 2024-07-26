@@ -1,4 +1,4 @@
-package com.example.grievify
+package com.deepsaikia.nitsgms
 
 import android.app.Dialog
 import android.content.Intent
@@ -10,7 +10,7 @@ import android.view.WindowManager
 import android.widget.EditText
 import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
-import com.example.grievify.databinding.ActivityDescriptionBinding
+import com.deepsaikia.nitsgms.databinding.ActivityDescriptionBinding
 import com.google.firebase.database.*
 import java.util.*
 import kotlin.collections.ArrayList

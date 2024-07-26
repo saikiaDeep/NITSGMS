@@ -1,4 +1,4 @@
-package com.example.grievify
+package com.deepsaikia.nitsgms
 
 import android.app.Activity
 import android.app.ProgressDialog
@@ -17,9 +17,9 @@ import android.widget.Button
 import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
-import com.example.grievify.data.TicketData
-import com.example.grievify.databinding.ActivityCreateComplaintBinding
-import com.example.grievify.utils.CheckInternet
+import com.deepsaikia.nitsgms.data.TicketData
+import com.deepsaikia.nitsgms.databinding.ActivityCreateComplaintBinding
+import com.deepsaikia.nitsgms.utils.CheckInternet
 import com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
 import com.google.android.material.textfield.TextInputEditText
 import com.google.firebase.auth.ktx.auth

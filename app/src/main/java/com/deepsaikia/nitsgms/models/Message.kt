@@ -1,4 +1,4 @@
-package com.example.grievify.models
+package com.deepsaikia.nitsgms.models
 
 data class Message (
     var message: String,

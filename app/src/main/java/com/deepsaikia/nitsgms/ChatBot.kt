@@ -1,4 +1,4 @@
-package com.example.grievify
+package com.deepsaikia.nitsgms
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -19,8 +19,8 @@ import com.google.cloud.dialogflow.v2.SessionName
 import com.google.cloud.dialogflow.v2.SessionsClient
 import com.google.cloud.dialogflow.v2.SessionsSettings
 import com.google.cloud.dialogflow.v2.TextInput
-import com.example.grievify.adapters.ChatBotAdapter
-import com.example.grievify.models.Message
+import com.deepsaikia.nitsgms.adapters.ChatBotAdapter
+import com.deepsaikia.nitsgms.models.Message
 import kotlinx.coroutines.Dispatchers.Default
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch

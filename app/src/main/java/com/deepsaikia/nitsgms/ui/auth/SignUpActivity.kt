@@ -4,8 +4,8 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
-import com.example.grievify.MainActivity
-import com.example.grievify.databinding.ActivitySignUpBinding
+import com.deepsaikia.nitsgms.MainActivity
+import com.deepsaikia.nitsgms.databinding.ActivitySignUpBinding
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.ktx.auth
 import com.google.firebase.database.DatabaseReference

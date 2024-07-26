@@ -4,8 +4,8 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
-import com.example.grievify.MainActivity
-import com.example.grievify.databinding.ActivityLoginBinding
+import com.deepsaikia.nitsgms.MainActivity
+import com.deepsaikia.nitsgms.databinding.ActivityLoginBinding
 import com.google.firebase.auth.FirebaseAuth
 
 class LoginActivity : AppCompatActivity() {

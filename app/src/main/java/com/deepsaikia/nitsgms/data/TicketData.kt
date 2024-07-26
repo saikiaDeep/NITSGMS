@@ -1,4 +1,4 @@
-package com.example.grievify.data
+package com.deepsaikia.nitsgms.data
 
 
 data class TicketData(val title:String?=null,

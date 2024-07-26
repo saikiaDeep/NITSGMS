@@ -7,10 +7,10 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.grievify.R
-import com.example.grievify.adapters.ComplaintAdapter
-import com.example.grievify.data.TicketData
-import com.example.grievify.databinding.FragmentComplainListBinding
+import com.deepsaikia.nitsgms.R
+import com.deepsaikia.nitsgms.adapters.ComplaintAdapter
+import com.deepsaikia.nitsgms.data.TicketData
+import com.deepsaikia.nitsgms.databinding.FragmentComplainListBinding
 import com.google.firebase.auth.ktx.auth
 import com.google.firebase.database.*
 import com.google.firebase.ktx.Firebase

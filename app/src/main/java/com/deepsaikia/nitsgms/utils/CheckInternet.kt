@@ -1,6 +1,6 @@
 @file:Suppress("DEPRECATION")
 
-package com.example.grievify.utils
+package com.deepsaikia.nitsgms.utils
 
 import android.content.Context
 import android.net.ConnectivityManager
