@@ -1,4 +1,4 @@
-package com.example.grievify.ui.auth
+package com.deepsaikia.nitsgms.ui.auth
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity

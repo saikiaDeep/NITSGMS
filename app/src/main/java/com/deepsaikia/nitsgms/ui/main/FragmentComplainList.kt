@@ -1,4 +1,4 @@
-package com.example.grievify.ui.main
+package com.deepsaikia.nitsgms.ui.main
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
