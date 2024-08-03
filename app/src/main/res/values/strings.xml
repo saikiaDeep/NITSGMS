@@ -2,6 +2,6 @@
     <string name="app_name">NITSGMS</string>
     <string name="title_activity_alt">AltActivity</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
+    <string name="title_chatbot">ChatBot</string>
     <string name="title_notifications">Notifications</string>
 </resources>
